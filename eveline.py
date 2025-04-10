@@ -1,4 +1,4 @@
-# eveline.py version 1.0
+# -*- coding: utf-8 -*-
 
 import os
 import secrets
